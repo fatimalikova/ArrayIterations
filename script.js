@@ -25,7 +25,7 @@ let array = [11,22,33,44,55];
 
 
 //REDUCE
-// let sum = array.reduce((prev,num,index,arr)=> num+prev,100);//yeni sum baslangicini 100den goturur. Default => (prev,0)
+// let sum = array.reduce((prev,num,index,arr)=> num+prev,100);//yeni sum baslangicini 100den goturur. Default => (prev,0) yeni int sum = 0; kimi
 // console.log(sum);
 
 
