@@ -59,8 +59,7 @@ const users = [
     { id: 7, name: "Tural", age: 19, point: 73, address: "Nakhchivan" },
     { id: 8, name: "Zahra", age: 26, point: 97, address: "Shirvan" },
     { id: 9, name: "Orxan", age: 23, point: 84, address: "Quba" },
-    { id: 10, name: "Fidan", age: 22, point: 90, address: "Khachmaz" },
-    { id: 11, name: "Fatima", age: 28, point: 98, address: "Shusha" }
+    { id: 10, name: "Fidan", age: 22, point: 90, address: "Khachmaz" }
 ];
 
 // let result = users.filter((value)=>value.point>87);
